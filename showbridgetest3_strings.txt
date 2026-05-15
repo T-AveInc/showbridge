@@ -1,0 +1,3368 @@
+1: DiGiCo     Q1  .SES vO   
+2: ShowBridgeTest3
+3: FX 1
+4: R(b
+5: Simple delay
+6: Simple delay
+7: Delays
+8: FX 1
+9: R(b
+10: Studio delay
+11: Studio delay
+12: Delays
+13: FX 1
+14: X(b
+15: @@[
+16: ;E\
+17: TenTap delay
+18: TenTap delay
+19: Delays
+20: FX 1
+21: X(b
+22: @ D
+23: ff<B
+24: Audio Enhancer
+25: Audio Enhancer
+26: Specials
+27: FX 1
+28: X(b
+29: v>>
+30: Guitar chorus
+31: Guitar chorus
+32: Choruses
+33: FX 1
+34: X(b
+35: (\>
+36: MB?
+37: B`e<
+38: Piano chorus
+39: Piano chorus
+40: Choruses
+41: FX 1
+42: X(b
+43: Percussion chorus
+44: Percussion chorus
+45: Choruses
+46: FX 1
+47: X(b
+48: MB?
+49: Wide String chorus
+50: Wide String chorus
+51: Choruses
+52: FX 1
+53: X(b
+54: Vocal Thicken
+55: Vocal Thicken
+56: Pitch Shifters
+57: FX 1
+58: X(b
+59: ?W{?
+60: Vocal Unison
+61: Vocal Unison
+62: Pitch Shifters
+63: FX 1
+64: X(b
+65: 33#A
+66: Guitar Thicken
+67: Guitar Thicken
+68: Pitch Shifters
+69: FX 1
+70: X(b
+71: Piano Thicken
+72: Piano Thicken
+73: Pitch Shifters
+74: FX 1
+75: X(b
+76: Woodwind Thicken
+77: Woodwind Thicken
+78: Pitch Shifters
+79: FX 1
+80: X(b
+81: Octave Down
+82: Octave Down
+83: Pitch Shifters
+84: FX 1
+85: X(b
+86: Large hall
+87: Large hall
+88: Hall Reverbs
+89: FX 1
+90: X(b
+91: Warm hall
+92: Warm hall
+93: Hall Reverbs
+94: FX 1
+95: X(b
+96: HF7
+97: 4JF
+98: Stage hall
+99: Stage hall
+100: Hall Reverbs
+101: FX 1
+102: X(b
+103: ,F7
+104: PHF
+105: Ambient hall
+106: Ambient hall
+107: Hall Reverbs
+108: FX 1
+109: X(b
+110: Cathedral
+111: Cathedral
+112: Hall Reverbs
+113: FX 1
+114: X(b
+115: VF7
+116: x)?
+117: Wood room
+118: Wood room
+119: Room Reverbs
+120: FX 1
+121: X(b
+122: ?F7
+123: Clear room
+124: Clear room
+125: Room Reverbs
+126: FX 1
+127: X(b
+128: Percussion room
+129: Percussion room
+130: Room Reverbs
+131: FX 1
+132: X(b
+133: Practice room
+134: Practice room
+135: Room Reverbs
+136: FX 1
+137: X(b
+138: (-F
+139: Live room
+140: Live room
+141: Room Reverbs
+142: FX 1
+143: X(b
+144: &1?
+145: Short Plate
+146: Short Plate
+147: Plate Reverbs
+148: FX 1
+149: X(b
+150: puB
+151: Medium Plate
+152: Medium Plate
+153: Plate Reverbs
+154: FX 1
+155: X(b
+156: nr?
+157: Drum Plate
+158: Drum Plate
+159: Plate Reverbs
+160: FX 1
+161: X(b
+162: Percussion Plate
+163: Percussion Plate
+164: Plate Reverbs
+165: FX 1
+166: X(b
+167: puB
+168: Vocal Plate
+169: Vocal Plate
+170: Plate Reverbs
+171: FX 1
+172: X(b
+173: ZD?
+174: Non-Linear
+175: Non-Linear
+176: Non-Lin Reverbs
+177: FX 1
+178: X(b
+179: Non-Linear Thick
+180: Non-Linear Thick
+181: Non-Lin Reverbs
+182: FX 1
+183: X(b
+184: I,?
+185: Non-Linear Ambience
+186: Non-Linear Ambience
+187: Non-Lin Reverbs
+188: FX 1
+189: X(b
+190: Reverse Ambience
+191: Reverse Ambience
+192: Non-Lin Reverbs
+193: FX 1
+194: X(b
+195: Kick Ambience
+196: Kick Ambience
+197: Non-Lin Reverbs
+198: Chilli 6
+199: X(b
+200: dei>
+201: 00@
+202: Qss
+203: @??
+204: Chilli 6
+205: Chilli Bass A
+206: Chilli 6
+207: Chilli 6
+208: X(b
+209: ?H(A
+210: JY%E
+211: @??
+212: Chilli 6
+213: Chilli Bass B
+214: Chilli 6
+215: Chilli 6
+216: X(b
+217: lS<
+218: H1D
+219: @??
+220: Chilli 6
+221: Chilli Bass Slap
+222: Chilli 6
+223: Chilli 6
+224: X(b
+225: ot^
+226: xKK
+227: \{E
+228: Chilli 6
+229: Chilli Guit/Keys
+230: Chilli 6
+231: o*Rq
+232: Chilli 6
+233: X(b
+234: Rd$
+235: BB@
+236: xKK
+237: Chilli 6
+238: Chilli Vox Warm
+239: Chilli 6
+240: Chilli 6
+241: X(b
+242: @!<
+243: exC
+244: c6F
+245: Chilli 6
+246: Chilli Buss
+247: Chilli 6
+248: Chilli 6
+249: X(b
+250: @!<
+251: 00@
+252: Eb8F
+253: Chilli 6
+254: Chilli Mastering C
+255: Chilli 6
+256: B|s
+257: Chilli 6
+258: X(b
+259: Rd$
+260: BB@
+261: $Z/@
+262: Y%@
+263: Chilli 6
+264: Chilli Vox Clean
+265: Chilli 6
+266: 33333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+267: Misc
+268: Graphic EQs
+269: Effects
+270: Spice Rack
+271: Channels
+272: Groups
+273: Auxes
+274: Matrix
+275: Solos
+276: Local 1-8
+277: Local 9-16
+278: Local aes
+279: Mic 1-8
+280: Mic 9-16
+281: Mic 17-24
+282: Mic 25-32
+283: Mic 33-40
+284: Mic 41-48
+285: MADI 1-8
+286: MADI 9-16
+287: MADI 17-24
+288: MADI 25-32
+289: MADI 33-40
+290: MADI 41-48
+291: MADI 49-56
+292: Dante 1-8
+293: Dante 9-16
+294: Dante 17-24
+295: Dante 25-32
+296: Dante 33-40
+297: Dante 41-48
+298: Dante 49-56
+299: Dante 57-64
+300: Misc
+301: Graphic EQs
+302: Effects
+303: Spice Rack
+304: Local line
+305: Local aes
+306: Line 1-8
+307: Line 9-16
+308: Line 17-24
+309: AES 1-8
+310: AES 9-16
+311: MADI 1-8
+312: MADI 9-16
+313: MADI 17-24
+314: MADI 25-32
+315: MADI 33-40
+316: MADI 41-48
+317: MADI 49-56
+318: Dante 1-8
+319: Dante 9-16
+320: Dante 17-24
+321: Dante 25-32
+322: Dante 33-40
+323: Dante 41-48
+324: Dante 49-56
+325: Dante 57-64
+326: INTERNAL
+327: unused
+328: unused
+329: oscillator
+330: white noise
+331: pink noise
+332: talk mic
+333: 11Hz sawtooth
+334: oscillator 2
+335: INTERNAL
+336: unused
+337: unused
+338: headphone L
+339: headphone R
+340: Local I/O
+341: 0:Mic 1
+342: 0:Mic 2
+343: 0:Mic 3
+344: 0:Mic 4
+345: 0:Mic 5
+346: 0:Mic 6
+347: 0:Mic 7
+348: 0:Mic 8
+349: 0:Mic 9
+350: 0:Mic 10
+351: 0:Mic 11
+352: 0:Mic 12
+353: 0:Mic 13
+354: 0:Mic 14
+355: 0:Mic 15
+356: 0:Mic 16
+357: 0:AES in 1
+358: 0:AES in 2
+359: Local I/O
+360: 0:Line 1
+361: 0:Line 2
+362: 0:Line 3
+363: 0:Line 4
+364: 0:Line 5
+365: 0:Line 6
+366: 0:Line 7
+367: 0:Line 8
+368: 0:AES out 1
+369: 0:AES out 2
+370: Rack 1
+371: 1:Mic 1
+372: 1:Mic 2
+373: 1:Mic 3
+374: 1:Mic 4
+375: 1:Mic 5
+376: 1:Mic 6
+377: 1:Mic 7
+378: 1:Mic 8
+379: 1:Mic 9
+380: 1:Mic 10
+381: 1:Mic 11
+382: 1:Mic 12
+383: 1:Mic 13
+384: 1:Mic 14
+385: 1:Mic 15
+386: 1:Mic 16
+387: 1:Mic 17
+388: 1:Mic 18
+389: 1:Mic 19
+390: 1:Mic 20
+391: 1:Mic 21
+392: 1:Mic 22
+393: 1:Mic 23
+394: 1:Mic 24
+395: 1:Mic 25
+396: 1:Mic 26
+397: 1:Mic 27
+398: 1:Mic 28
+399: 1:Mic 29
+400: 1:Mic 30
+401: 1:Mic 31
+402: 1:Mic 32
+403: 1:Mic 33
+404: 1:Mic 34
+405: 1:Mic 35
+406: 1:Mic 36
+407: 1:Mic 37
+408: 1:Mic 38
+409: 1:Mic 39
+410: 1:Mic 40
+411: 1:Mic 41
+412: 1:Mic 42
+413: 1:Mic 43
+414: 1:Mic 44
+415: 1:Mic 45
+416: 1:Mic 46
+417: 1:Mic 47
+418: 1:Mic 48
+419: Rack 1
+420: 1:Line out 1
+421: 1:Line out 2
+422: 1:Line out 3
+423: 1:Line out 4
+424: 1:Line out 5
+425: 1:Line out 6
+426: 1:Line out 7
+427: 1:Line out 8
+428: 1:Line out 9
+429: 1:Line out 10
+430: 1:Line out 11
+431: 1:Line out 12
+432: 1:Line out 13
+433: 1:Line out 14
+434: 1:Line out 15
+435: 1:Line out 16
+436: 1:Line out 17
+437: 1:Line out 18
+438: 1:Line out 19
+439: 1:Line out 20
+440: 1:Line out 21
+441: 1:Line out 22
+442: 1:Line out 23
+443: 1:Line out 24
+444: 1:AES out 1
+445: 1:AES out 2
+446: 1:AES out 3
+447: 1:AES out 4
+448: 1:AES out 5
+449: 1:AES out 6
+450: 1:AES out 7
+451: 1:AES out 8
+452:  O!
+453: 1:AES out 9
+454: !O"
+455: 1:AES out 10
+456: "O#
+457: 1:AES out 11
+458: #O$
+459: 1:AES out 12
+460: $O%
+461: 1:AES out 13
+462: %O&
+463: 1:AES out 14
+464: &O'
+465: 1:AES out 15
+466: 'O(
+467: 1:AES out 16
+468: (O)
+469: )O*
+470: *O+
+471: +O,
+472: ,O-
+473: -O.
+474: .O/
+475: /O0
+476: 0O1
+477: 1O2
+478: 2O3
+479: 3O4
+480: 4O5
+481: 5O6
+482: 6O7
+483: 7O8
+484: MADI
+485: 2:MADI 1
+486: 2:MADI 2
+487: 2:MADI 3
+488: 2:MADI 4
+489: 2:MADI 5
+490: 2:MADI 6
+491: 2:MADI 7
+492: 2:MADI 8
+493: 2:MADI 9
+494: 2:MADI 10
+495: 2:MADI 11
+496: 2:MADI 12
+497: 2:MADI 13
+498: 2:MADI 14
+499: 2:MADI 15
+500: 2:MADI 16
+501: 2:MADI 17
+502: 2:MADI 18
+503: 2:MADI 19
+504: 2:MADI 20
+505: 2:MADI 21
+506: 2:MADI 22
+507: 2:MADI 23
+508: 2:MADI 24
+509: 2:MADI 25
+510: 2:MADI 26
+511: 2:MADI 27
+512: 2:MADI 28
+513: 2:MADI 29
+514: 2:MADI 30
+515: 2:MADI 31
+516: 2:MADI 32
+517: 2:MADI 33
+518: 2:MADI 34
+519: 2:MADI 35
+520: 2:MADI 36
+521: 2:MADI 37
+522: 2:MADI 38
+523: 2:MADI 39
+524: 2:MADI 40
+525: 2:MADI 41
+526: 2:MADI 42
+527: 2:MADI 43
+528: 2:MADI 44
+529: 2:MADI 45
+530: 2:MADI 46
+531: 2:MADI 47
+532: 2:MADI 48
+533: 2:MADI 49
+534: 2:MADI 50
+535: 2:MADI 51
+536: 2:MADI 52
+537: 2:MADI 53
+538: 2:MADI 54
+539: 2:MADI 55
+540: 2:MADI 56
+541: MADI
+542: 2:MADI 1
+543: 2:MADI 2
+544: 2:MADI 3
+545: 2:MADI 4
+546: 2:MADI 5
+547: 2:MADI 6
+548: 2:MADI 7
+549: 2:MADI 8
+550: 2:MADI 9
+551: 2:MADI 10
+552: 2:MADI 11
+553: 2:MADI 12
+554: 2:MADI 13
+555: 2:MADI 14
+556: 2:MADI 15
+557: 2:MADI 16
+558: 2:MADI 17
+559: 2:MADI 18
+560: 2:MADI 19
+561: 2:MADI 20
+562: 2:MADI 21
+563: 2:MADI 22
+564: 2:MADI 23
+565: 2:MADI 24
+566: 2:MADI 25
+567: 2:MADI 26
+568: 2:MADI 27
+569: 2:MADI 28
+570: 2:MADI 29
+571: 2:MADI 30
+572: 2:MADI 31
+573: 2:MADI 32
+574:  P!
+575: 2:MADI 33
+576: !P"
+577: 2:MADI 34
+578: "P#
+579: 2:MADI 35
+580: #P$
+581: 2:MADI 36
+582: $P%
+583: 2:MADI 37
+584: %P&
+585: 2:MADI 38
+586: &P'
+587: 2:MADI 39
+588: 'P(
+589: 2:MADI 40
+590: (P)
+591: 2:MADI 41
+592: )P*
+593: 2:MADI 42
+594: *P+
+595: 2:MADI 43
+596: +P,
+597: 2:MADI 44
+598: ,P-
+599: 2:MADI 45
+600: -P.
+601: 2:MADI 46
+602: .P/
+603: 2:MADI 47
+604: /P0
+605: 2:MADI 48
+606: 0P1
+607: 2:MADI 49
+608: 1P2
+609: 2:MADI 50
+610: 2P3
+611: 2:MADI 51
+612: 3P4
+613: 2:MADI 52
+614: 4P5
+615: 2:MADI 53
+616: 5P6
+617: 2:MADI 54
+618: 6P7
+619: 2:MADI 55
+620: 7P8
+621: 2:MADI 56
+622: Graphic EQ
+623: Graphic 1
+624: Graphic 2
+625: Graphic 3
+626: Graphic 4
+627: Graphic 5
+628: Graphic 6
+629: Graphic 7
+630: Graphic 8
+631: Graphic 9
+632: Graphic 10
+633: Graphic 11
+634: Graphic 12
+635: Spice Rack
+636: Chilli 6
+637: Chilli 6
+638: Chilli 6
+639: Chilli 6
+640: Chilli 6
+641: Chilli 6
+642: Solo
+643: Solo 1
+644: Solo 2
+645: Monitoring
+646: Monitoring
+647: Control Groups
+648: CG 1
+649: CG 2
+650: CG 3
+651: CG 4
+652: CG 5
+653: CG 6
+654: CG 7
+655: CG 8
+656: CG 9
+657: CG 10
+658: CG 11
+659: CG 12
+660: Matrix Outputs
+661: [@|
+662: [@|
+663: Matrix 1
+664: Matrix 2
+665: Matrix 3
+666: Matrix 4
+667: Matrix 5
+668: Matrix 6
+669: Matrix 7
+670: Matrix 8
+671: Matrix Inputs
+672: mtx In 1
+673: mtx In 2
+674: mtx In 3
+675: mtx In 4
+676: mtx In 5
+677: mtx In 6
+678: mtx In 7
+679: mtx In 8
+680: mtx In 9
+681: mtx In 10
+682: mtx In 11
+683: mtx In 12
+684: Busses
+685: [H|
+686: [H|
+687: Aux 4 R
+688: Aux 5 R
+689: Aux 6 R
+690: Master R
+691: Grp 5 R
+692: Grp 6 R
+693: Aux Outputs
+694: [@|
+695: [@|
+696: Aux 1
+697: Aux 2
+698: Aux 3
+699: Aux 4
+700: Aux 5
+701: Aux 6
+702: Group Outputs
+703: [H|
+704: [H|
+705: Grp 1
+706: Grp 2
+707: Grp 3
+708: Master
+709: Grp 5
+710: Grp 6
+711: Nodal Processing
+712: Input Channels
+713: sH|
+714: sH|
+715: Kick In
+716: Kick Out
+717: Snare Top
+718: Snare Btm
+719: Hat5
+720: Bass
+721: Ch 7
+722: Ch 8
+723: Ch 9
+724: Ch 10
+725: Ch 11
+726: Ch 12
+727: Ch 13
+728: Ch 14
+729: Ch 15
+730: Ch 16
+731: Ch 17
+732: Ch 18
+733: Ch 19
+734: Ch 20
+735: Ch 21
+736: Ch 22
+737: Ch 23
+738: Ch 24
+739: Ch 25
+740: Ch 26
+741: Ch 27
+742: Ch 28
+743: Ch 29
+744: Ch 30
+745: Ch 31
+746: Ch 32
+747: Ch 33
+748: Ch 34
+749: Ch 35
+750: Ch 36
+751: Ch 37
+752: Ch 38
+753: Ch 39
+754: Ch 40
+755: Ch 41
+756: Ch 42
+757: Ch 43
+758: Ch 44
+759: Ch 45
+760: Ch 46
+761: Ch 47
+762: Ch 48
+763: Talkback Input
+764: TB In
+765: Talkback Outputs
+766: Dante
+767: 3:Dante 1
+768: 3:Dante 2
+769: 3:Dante 3
+770: 3:Dante 4
+771: 3:Dante 5
+772: 3:Dante 6
+773: 3:Dante 7
+774: 3:Dante 8
+775: 3:Dante 9
+776: 3:Dante 10
+777: 3:Dante 11
+778: 3:Dante 12
+779: 3:Dante 13
+780: 3:Dante 14
+781: 3:Dante 15
+782: 3:Dante 16
+783: 3:Dante 17
+784: 3:Dante 18
+785: 3:Dante 19
+786: 3:Dante 20
+787: 3:Dante 21
+788: 3:Dante 22
+789: 3:Dante 23
+790: 3:Dante 24
+791: 3:Dante 25
+792: 3:Dante 26
+793: 3:Dante 27
+794: 3:Dante 28
+795: 3:Dante 29
+796: 3:Dante 30
+797: 3:Dante 31
+798: 3:Dante 32
+799: 3:Dante 33
+800: 3:Dante 34
+801: 3:Dante 35
+802: 3:Dante 36
+803: 3:Dante 37
+804: 3:Dante 38
+805: 3:Dante 39
+806: 3:Dante 40
+807: 3:Dante 41
+808: 3:Dante 42
+809: 3:Dante 43
+810: 3:Dante 44
+811: 3:Dante 45
+812: 3:Dante 46
+813: 3:Dante 47
+814: 3:Dante 48
+815: 3:Dante 49
+816: 3:Dante 50
+817: 3:Dante 51
+818: 3:Dante 52
+819: 3:Dante 53
+820: 3:Dante 54
+821: 3:Dante 55
+822: 3:Dante 56
+823: 3:Dante 57
+824: 3:Dante 58
+825: 3:Dante 59
+826: 3:Dante 60
+827: 3:Dante 61
+828: 3:Dante 62
+829: 3:Dante 63
+830: 3:Dante 64
+831: Dante
+832: 3:Dante 1
+833: 3:Dante 2
+834: 3:Dante 3
+835: 3:Dante 4
+836: 3:Dante 5
+837: 3:Dante 6
+838: 3:Dante 7
+839: 3:Dante 8
+840: 3:Dante 9
+841: 3:Dante 10
+842: 3:Dante 11
+843: 3:Dante 12
+844: 3:Dante 13
+845: 3:Dante 14
+846: 3:Dante 15
+847: 3:Dante 16
+848: 3:Dante 17
+849: 3:Dante 18
+850: 3:Dante 19
+851: 3:Dante 20
+852: 3:Dante 21
+853: 3:Dante 22
+854: 3:Dante 23
+855: 3:Dante 24
+856: 3:Dante 25
+857: 3:Dante 26
+858: 3:Dante 27
+859: 3:Dante 28
+860: 3:Dante 29
+861: 3:Dante 30
+862: 3:Dante 31
+863: 3:Dante 32
+864:  Q!
+865: 3:Dante 33
+866: !Q"
+867: 3:Dante 34
+868: "Q#
+869: 3:Dante 35
+870: #Q$
+871: 3:Dante 36
+872: $Q%
+873: 3:Dante 37
+874: %Q&
+875: 3:Dante 38
+876: &Q'
+877: 3:Dante 39
+878: 'Q(
+879: 3:Dante 40
+880: (Q)
+881: 3:Dante 41
+882: )Q*
+883: 3:Dante 42
+884: *Q+
+885: 3:Dante 43
+886: +Q,
+887: 3:Dante 44
+888: ,Q-
+889: 3:Dante 45
+890: -Q.
+891: 3:Dante 46
+892: .Q/
+893: 3:Dante 47
+894: /Q0
+895: 3:Dante 48
+896: 0Q1
+897: 3:Dante 49
+898: 1Q2
+899: 3:Dante 50
+900: 2Q3
+901: 3:Dante 51
+902: 3Q4
+903: 3:Dante 52
+904: 4Q5
+905: 3:Dante 53
+906: 5Q6
+907: 3:Dante 54
+908: 6Q7
+909: 3:Dante 55
+910: 7Q8
+911: 3:Dante 56
+912: 8Q9
+913: 3:Dante 57
+914: 9Q:
+915: 3:Dante 58
+916: :Q;
+917: 3:Dante 59
+918: ;Q<
+919: 3:Dante 60
+920: <Q=
+921: 3:Dante 61
+922: =Q>
+923: 3:Dante 62
+924: >Q?
+925: 3:Dante 63
+926: ?Q@
+927: 3:Dante 64
+928: sH|
+929: sH|
+930: sH|
+931: sH|
+932: sH|
+933: sH|
+934: sH|
+935: sH|
+936: Kick In
+937: Kick In
+938: Kick In
+939: Kick In
+940: Kick In
+941: Kick In
+942: @@;
+943: Kick In
+944: Kick In
+945: Kick In
+946: Kick In
+947: Kick In
+948: Kick In
+949: Kick In
+950: Kick In
+951: 0A9
+952: Kick In
+953: Kick In
+954: Kick In
+955: Kick In
+956: Kick In
+957: Kick Out
+958: Kick Out
+959: Kick Out
+960: Kick Out
+961: Kick Out
+962: Kick Out
+963: @@;
+964: Kick Out
+965: Kick Out
+966: Kick Out
+967: Kick Out
+968: Kick Out
+969: Kick Out
+970: Kick Out
+971: Kick Out
+972: 0A9
+973: Kick Out
+974: Kick Out
+975: Kick Out
+976: Kick Out
+977: Kick Out
+978: Snare Top
+979: Snare Top
+980: Snare Top
+981: Snare Top
+982: Snare Top
+983: Snare Top
+984: @@;
+985: Snare Top
+986: Snare Top
+987: Snare Top
+988: Snare Top
+989: Snare Top
+990: Snare Top
+991: Snare Top
+992: Snare Top
+993: 0A9
+994: Snare Top
+995: Snare Top
+996: Snare Top
+997: Snare Top
+998: Snare Top
+999: Snare Btm
+1000: Snare Btm
+1001: Snare Btm
+1002: Snare Btm
+1003: Snare Btm
+1004: Snare Btm
+1005: @@;
+1006: Snare Btm
+1007: Snare Btm
+1008: Snare Btm
+1009: Snare Btm
+1010: Snare Btm
+1011: Snare Btm
+1012: Snare Btm
+1013: Snare Btm
+1014: 0A9
+1015: Snare Btm
+1016: Snare Btm
+1017: Snare Btm
+1018: Snare Btm
+1019: Snare Btm
+1020: Hat
+1021: Hat
+1022: Hat
+1023: Hat
+1024: Hat
+1025: Hat
+1026: @@;
+1027: Hat
+1028: Hat
+1029: Hat
+1030: Hat
+1031: Hat
+1032: Hat
+1033: Hat
+1034: Hat
+1035: 0A9
+1036: Hat
+1037: Hat
+1038: Hat
+1039: Hat
+1040: Hat
+1041: Bass
+1042: Bass
+1043: Bass
+1044: Bass
+1045: Bass
+1046: Bass
+1047: @@;
+1048: Bass
+1049: Bass
+1050: Bass
+1051: Bass
+1052: Bass
+1053: Bass
+1054: Bass
+1055: Bass
+1056: 0A9
+1057: Bass
+1058: Bass
+1059: Bass
+1060: Bass
+1061: Bass
+1062: Ch 7
+1063: Ch 7
+1064: Ch 7
+1065: Ch 7
+1066: Ch 7
+1067: Ch 7
+1068: @@;
+1069: Ch 7
+1070: Ch 7
+1071: Ch 7
+1072: Ch 7
+1073: Ch 7
+1074: Ch 7
+1075: Ch 7
+1076: Ch 7
+1077: 0A9
+1078: Ch 7
+1079: Ch 7
+1080: Ch 7
+1081: Ch 7
+1082: Ch 7
+1083: Ch 8
+1084: Ch 8
+1085: Ch 8
+1086: Ch 8
+1087: Ch 8
+1088: Ch 8
+1089: @@;
+1090: Ch 8
+1091: Ch 8
+1092: Ch 8
+1093: Ch 8
+1094: Ch 8
+1095: Ch 8
+1096: Ch 8
+1097: Ch 8
+1098: 0A9
+1099: Ch 8
+1100: Ch 8
+1101: Ch 8
+1102: Ch 8
+1103: Ch 8
+1104: Ch 9
+1105: Ch 9
+1106: Ch 9
+1107: Ch 9
+1108: Ch 9
+1109: Ch 9
+1110: @@;
+1111: Ch 9
+1112: Ch 9
+1113: Ch 9
+1114: Ch 9
+1115: Ch 9
+1116: Ch 9
+1117: Ch 9
+1118: Ch 9
+1119: 0A9
+1120: Ch 9
+1121: Ch 9
+1122: Ch 9
+1123: Ch 9
+1124: Ch 9
+1125: Ch 10
+1126: Ch 10
+1127: Ch 10
+1128: Ch 10
+1129: Ch 10
+1130: Ch 10
+1131: @@;
+1132: Ch 10
+1133: Ch 10
+1134: Ch 10
+1135: Ch 10
+1136: Ch 10
+1137: Ch 10
+1138: Ch 10
+1139: Ch 10
+1140: 0A9
+1141: Ch 10
+1142: Ch 10
+1143: Ch 10
+1144: Ch 10
+1145: Ch 10
+1146: Ch 11
+1147: Ch 11
+1148: Ch 11
+1149: Ch 11
+1150: Ch 11
+1151: Ch 11
+1152: @@;
+1153: Ch 11
+1154: Ch 11
+1155: Ch 11
+1156: Ch 11
+1157: Ch 11
+1158: Ch 11
+1159: Ch 11
+1160: Ch 11
+1161: 0A9
+1162: Ch 11
+1163: Ch 11
+1164: Ch 11
+1165: Ch 11
+1166: Ch 11
+1167: Ch 12
+1168: Ch 12
+1169: Ch 12
+1170: Ch 12
+1171: Ch 12
+1172: Ch 12
+1173: @@;
+1174: Ch 12
+1175: Ch 12
+1176: Ch 12
+1177: Ch 12
+1178: Ch 12
+1179: Ch 12
+1180: Ch 12
+1181: Ch 12
+1182: 0A9
+1183: Ch 12
+1184: Ch 12
+1185: Ch 12
+1186: Ch 12
+1187: Ch 12
+1188: Ch 13
+1189: Ch 13
+1190: Ch 13
+1191: Ch 13
+1192: Ch 13
+1193: Ch 13
+1194: @@;
+1195: Ch 13
+1196: Ch 13
+1197: Ch 13
+1198: Ch 13
+1199: Ch 13
+1200: Ch 13
+1201: Ch 13
+1202: Ch 13
+1203: 0A9
+1204: Ch 13
+1205: Ch 13
+1206: Ch 13
+1207: Ch 13
+1208: Ch 13
+1209: Ch 14
+1210: Ch 14
+1211: Ch 14
+1212: Ch 14
+1213: Ch 14
+1214: Ch 14
+1215: @@;
+1216: Ch 14
+1217: Ch 14
+1218: Ch 14
+1219: Ch 14
+1220: Ch 14
+1221: Ch 14
+1222: Ch 14
+1223: Ch 14
+1224: 0A9
+1225: Ch 14
+1226: Ch 14
+1227: Ch 14
+1228: Ch 14
+1229: Ch 14
+1230: Ch 15
+1231: Ch 15
+1232: Ch 15
+1233: Ch 15
+1234: Ch 15
+1235: Ch 15
+1236: @@;
+1237: Ch 15
+1238: Ch 15
+1239: Ch 15
+1240: Ch 15
+1241: Ch 15
+1242: Ch 15
+1243: Ch 15
+1244: Ch 15
+1245: 0A9
+1246: Ch 15
+1247: Ch 15
+1248: Ch 15
+1249: Ch 15
+1250: Ch 15
+1251: Ch 16
+1252: Ch 16
+1253: Ch 16
+1254: Ch 16
+1255: Ch 16
+1256: Ch 16
+1257: @@;
+1258: Ch 16
+1259: Ch 16
+1260: Ch 16
+1261: Ch 16
+1262: Ch 16
+1263: Ch 16
+1264: Ch 16
+1265: Ch 16
+1266: 0A9
+1267: Ch 16
+1268: Ch 16
+1269: Ch 16
+1270: Ch 16
+1271: Ch 16
+1272: Ch 17
+1273: Ch 17
+1274: Ch 17
+1275: Ch 17
+1276: Ch 17
+1277: Ch 17
+1278: @@;
+1279: Ch 17
+1280: Ch 17
+1281: Ch 17
+1282: Ch 17
+1283: Ch 17
+1284: Ch 17
+1285: Ch 17
+1286: Ch 17
+1287: 0A9
+1288: Ch 17
+1289: Ch 17
+1290: Ch 17
+1291: Ch 17
+1292: Ch 17
+1293: Ch 18
+1294: Ch 18
+1295: Ch 18
+1296: Ch 18
+1297: Ch 18
+1298: Ch 18
+1299: @@;
+1300: Ch 18
+1301: Ch 18
+1302: Ch 18
+1303: Ch 18
+1304: Ch 18
+1305: Ch 18
+1306: Ch 18
+1307: Ch 18
+1308: 0A9
+1309: Ch 18
+1310: Ch 18
+1311: Ch 18
+1312: Ch 18
+1313: Ch 18
+1314: Ch 19
+1315: Ch 19
+1316: Ch 19
+1317: Ch 19
+1318: Ch 19
+1319: Ch 19
+1320: @@;
+1321: Ch 19
+1322: Ch 19
+1323: Ch 19
+1324: Ch 19
+1325: Ch 19
+1326: Ch 19
+1327: Ch 19
+1328: Ch 19
+1329: 0A9
+1330: Ch 19
+1331: Ch 19
+1332: Ch 19
+1333: Ch 19
+1334: Ch 19
+1335: Ch 20
+1336: Ch 20
+1337: Ch 20
+1338: Ch 20
+1339: Ch 20
+1340: Ch 20
+1341: @@;
+1342: Ch 20
+1343: Ch 20
+1344: Ch 20
+1345: Ch 20
+1346: Ch 20
+1347: Ch 20
+1348: Ch 20
+1349: Ch 20
+1350: 0A9
+1351: Ch 20
+1352: Ch 20
+1353: Ch 20
+1354: Ch 20
+1355: Ch 20
+1356: Ch 21
+1357: Ch 21
+1358: Ch 21
+1359: Ch 21
+1360: Ch 21
+1361: Ch 21
+1362: @@;
+1363: Ch 21
+1364: Ch 21
+1365: Ch 21
+1366: Ch 21
+1367: Ch 21
+1368: Ch 21
+1369: Ch 21
+1370: Ch 21
+1371: 0A9
+1372: Ch 21
+1373: Ch 21
+1374: Ch 21
+1375: Ch 21
+1376: Ch 21
+1377: Ch 22
+1378: Ch 22
+1379: Ch 22
+1380: Ch 22
+1381: Ch 22
+1382: Ch 22
+1383: @@;
+1384: Ch 22
+1385: Ch 22
+1386: Ch 22
+1387: Ch 22
+1388: Ch 22
+1389: Ch 22
+1390: Ch 22
+1391: Ch 22
+1392: 0A9
+1393: Ch 22
+1394: Ch 22
+1395: Ch 22
+1396: Ch 22
+1397: Ch 22
+1398: Ch 23
+1399: Ch 23
+1400: Ch 23
+1401: Ch 23
+1402: Ch 23
+1403: Ch 23
+1404: @@;
+1405: Ch 23
+1406: Ch 23
+1407: Ch 23
+1408: Ch 23
+1409: Ch 23
+1410: Ch 23
+1411: Ch 23
+1412: Ch 23
+1413: 0A9
+1414: Ch 23
+1415: Ch 23
+1416: Ch 23
+1417: Ch 23
+1418: Ch 23
+1419: Ch 24
+1420: Ch 24
+1421: Ch 24
+1422: Ch 24
+1423: Ch 24
+1424: Ch 24
+1425: @@;
+1426: Ch 24
+1427: Ch 24
+1428: Ch 24
+1429: Ch 24
+1430: Ch 24
+1431: Ch 24
+1432: Ch 24
+1433: Ch 24
+1434: 0A9
+1435: Ch 24
+1436: Ch 24
+1437: Ch 24
+1438: Ch 24
+1439: Ch 24
+1440: Ch 25
+1441: Ch 25
+1442: Ch 25
+1443: Ch 25
+1444: Ch 25
+1445: Ch 25
+1446: @@;
+1447: Ch 25
+1448: Ch 25
+1449: Ch 25
+1450: Ch 25
+1451: Ch 25
+1452: Ch 25
+1453: Ch 25
+1454: Ch 25
+1455: 0A9
+1456: Ch 25
+1457: Ch 25
+1458: Ch 25
+1459: Ch 25
+1460: Ch 25
+1461: Ch 26
+1462: Ch 26
+1463: Ch 26
+1464: Ch 26
+1465: Ch 26
+1466: Ch 26
+1467: @@;
+1468: Ch 26
+1469: Ch 26
+1470: Ch 26
+1471: Ch 26
+1472: Ch 26
+1473: Ch 26
+1474: Ch 26
+1475: Ch 26
+1476: 0A9
+1477: Ch 26
+1478: Ch 26
+1479: Ch 26
+1480: Ch 26
+1481: Ch 26
+1482: Ch 27
+1483: Ch 27
+1484: Ch 27
+1485: Ch 27
+1486: Ch 27
+1487: Ch 27
+1488: @@;
+1489: Ch 27
+1490: Ch 27
+1491: Ch 27
+1492: Ch 27
+1493: Ch 27
+1494: Ch 27
+1495: Ch 27
+1496: Ch 27
+1497: 0A9
+1498: Ch 27
+1499: Ch 27
+1500: Ch 27
+1501: Ch 27
+1502: Ch 27
+1503: Ch 28
+1504: Ch 28
+1505: Ch 28
+1506: Ch 28
+1507: Ch 28
+1508: Ch 28
+1509: @@;
+1510: Ch 28
+1511: Ch 28
+1512: Ch 28
+1513: Ch 28
+1514: Ch 28
+1515: Ch 28
+1516: Ch 28
+1517: Ch 28
+1518: 0A9
+1519: Ch 28
+1520: Ch 28
+1521: Ch 28
+1522: Ch 28
+1523: Ch 28
+1524: Ch 29
+1525: Ch 29
+1526: Ch 29
+1527: Ch 29
+1528: Ch 29
+1529: Ch 29
+1530: @@;
+1531: Ch 29
+1532: Ch 29
+1533: Ch 29
+1534: Ch 29
+1535: Ch 29
+1536: Ch 29
+1537: Ch 29
+1538: Ch 29
+1539: 0A9
+1540: Ch 29
+1541: Ch 29
+1542: Ch 29
+1543: Ch 29
+1544: Ch 29
+1545: Ch 30
+1546: Ch 30
+1547: Ch 30
+1548: Ch 30
+1549: Ch 30
+1550: Ch 30
+1551: @@;
+1552: Ch 30
+1553: Ch 30
+1554: Ch 30
+1555: Ch 30
+1556: Ch 30
+1557: Ch 30
+1558: Ch 30
+1559: Ch 30
+1560: 0A9
+1561: Ch 30
+1562: Ch 30
+1563: Ch 30
+1564: Ch 30
+1565: Ch 30
+1566: Ch 31
+1567: Ch 31
+1568: Ch 31
+1569: Ch 31
+1570: Ch 31
+1571: Ch 31
+1572: @@;
+1573: Ch 31
+1574: Ch 31
+1575: Ch 31
+1576: Ch 31
+1577: Ch 31
+1578: Ch 31
+1579: Ch 31
+1580: Ch 31
+1581: 0A9
+1582: Ch 31
+1583: Ch 31
+1584: Ch 31
+1585: Ch 31
+1586: Ch 31
+1587: Ch 32
+1588: Ch 32
+1589: Ch 32
+1590: Ch 32
+1591: Ch 32
+1592: Ch 32
+1593: @@;
+1594: Ch 32
+1595: Ch 32
+1596: Ch 32
+1597: Ch 32
+1598: Ch 32
+1599: Ch 32
+1600: Ch 32
+1601: Ch 32
+1602: 0A9
+1603: Ch 32
+1604: Ch 32
+1605: Ch 32
+1606: Ch 32
+1607: Ch 32
+1608: Ch 33
+1609: Ch 33
+1610: Ch 33
+1611: Ch 33
+1612: Ch 33
+1613: Ch 33
+1614: @@;
+1615: Ch 33
+1616: Ch 33
+1617: Ch 33
+1618: Ch 33
+1619: Ch 33
+1620: Ch 33
+1621: Ch 33
+1622: Ch 33
+1623: 0A9
+1624: Ch 33
+1625: Ch 33
+1626: Ch 33
+1627: Ch 33
+1628: Ch 33
+1629: Ch 34
+1630: Ch 34
+1631: Ch 34
+1632: Ch 34
+1633: Ch 34
+1634: Ch 34
+1635: @@;
+1636: Ch 34
+1637: Ch 34
+1638: Ch 34
+1639: Ch 34
+1640: Ch 34
+1641: Ch 34
+1642: Ch 34
+1643: Ch 34
+1644: 0A9
+1645: Ch 34
+1646: Ch 34
+1647: Ch 34
+1648: Ch 34
+1649: Ch 34
+1650: Ch 35
+1651: Ch 35
+1652: Ch 35
+1653: Ch 35
+1654: Ch 35
+1655: Ch 35
+1656: @@;
+1657: Ch 35
+1658: Ch 35
+1659: Ch 35
+1660: Ch 35
+1661: Ch 35
+1662: Ch 35
+1663: Ch 35
+1664: Ch 35
+1665: 0A9
+1666: Ch 35
+1667: Ch 35
+1668: Ch 35
+1669: Ch 35
+1670: Ch 35
+1671: Ch 36
+1672: Ch 36
+1673: Ch 36
+1674: Ch 36
+1675: Ch 36
+1676: Ch 36
+1677: @@;
+1678: Ch 36
+1679: Ch 36
+1680: Ch 36
+1681: Ch 36
+1682: Ch 36
+1683: Ch 36
+1684: Ch 36
+1685: Ch 36
+1686: 0A9
+1687: Ch 36
+1688: Ch 36
+1689: Ch 36
+1690: Ch 36
+1691: Ch 36
+1692: Ch 37
+1693: Ch 37
+1694: Ch 37
+1695: Ch 37
+1696: Ch 37
+1697: Ch 37
+1698: @@;
+1699: Ch 37
+1700: Ch 37
+1701: Ch 37
+1702: Ch 37
+1703: Ch 37
+1704: Ch 37
+1705: Ch 37
+1706: Ch 37
+1707: 0A9
+1708: Ch 37
+1709: Ch 37
+1710: Ch 37
+1711: Ch 37
+1712: Ch 37
+1713: Ch 38
+1714: Ch 38
+1715: Ch 38
+1716: Ch 38
+1717: Ch 38
+1718: Ch 38
+1719: @@;
+1720: Ch 38
+1721: Ch 38
+1722: Ch 38
+1723: Ch 38
+1724: Ch 38
+1725: Ch 38
+1726: Ch 38
+1727: Ch 38
+1728: 0A9
+1729: Ch 38
+1730: Ch 38
+1731: Ch 38
+1732: Ch 38
+1733: Ch 38
+1734: Ch 39
+1735: Ch 39
+1736: Ch 39
+1737: Ch 39
+1738: Ch 39
+1739: Ch 39
+1740: @@;
+1741: Ch 39
+1742: Ch 39
+1743: Ch 39
+1744: Ch 39
+1745: Ch 39
+1746: Ch 39
+1747: Ch 39
+1748: Ch 39
+1749: 0A9
+1750: Ch 39
+1751: Ch 39
+1752: Ch 39
+1753: Ch 39
+1754: Ch 39
+1755: Ch 40
+1756: Ch 40
+1757: Ch 40
+1758: Ch 40
+1759: Ch 40
+1760: Ch 40
+1761: @@;
+1762: Ch 40
+1763: Ch 40
+1764: Ch 40
+1765: Ch 40
+1766: Ch 40
+1767: Ch 40
+1768: Ch 40
+1769: Ch 40
+1770: 0A9
+1771: Ch 40
+1772: Ch 40
+1773: Ch 40
+1774: Ch 40
+1775: Ch 40
+1776: Ch 41
+1777: Ch 41
+1778: Ch 41
+1779: Ch 41
+1780: Ch 41
+1781: Ch 41
+1782: @@;
+1783: Ch 41
+1784: Ch 41
+1785: Ch 41
+1786: Ch 41
+1787: Ch 41
+1788: Ch 41
+1789: Ch 41
+1790: Ch 41
+1791: 0A9
+1792: Ch 41
+1793: Ch 41
+1794: Ch 41
+1795: Ch 41
+1796: Ch 41
+1797: Ch 42
+1798: Ch 42
+1799: Ch 42
+1800: Ch 42
+1801: Ch 42
+1802: Ch 42
+1803: @@;
+1804: Ch 42
+1805: Ch 42
+1806: Ch 42
+1807: Ch 42
+1808: Ch 42
+1809: Ch 42
+1810: Ch 42
+1811: Ch 42
+1812: 0A9
+1813: Ch 42
+1814: Ch 42
+1815: Ch 42
+1816: Ch 42
+1817: Ch 42
+1818: Ch 43
+1819: Ch 43
+1820: Ch 43
+1821: Ch 43
+1822: Ch 43
+1823: Ch 43
+1824: @@;
+1825: Ch 43
+1826: Ch 43
+1827: Ch 43
+1828: Ch 43
+1829: Ch 43
+1830: Ch 43
+1831: Ch 43
+1832: Ch 43
+1833: 0A9
+1834: Ch 43
+1835: Ch 43
+1836: Ch 43
+1837: Ch 43
+1838: Ch 43
+1839: Ch 44
+1840: Ch 44
+1841: Ch 44
+1842: Ch 44
+1843: Ch 44
+1844: Ch 44
+1845: @@;
+1846: Ch 44
+1847: Ch 44
+1848: Ch 44
+1849: Ch 44
+1850: Ch 44
+1851: Ch 44
+1852: Ch 44
+1853: Ch 44
+1854: 0A9
+1855: Ch 44
+1856: Ch 44
+1857: Ch 44
+1858: Ch 44
+1859: Ch 44
+1860: Ch 45
+1861: Ch 45
+1862: Ch 45
+1863: Ch 45
+1864: Ch 45
+1865: Ch 45
+1866: @@;
+1867: Ch 45
+1868: Ch 45
+1869: Ch 45
+1870: Ch 45
+1871: Ch 45
+1872: Ch 45
+1873: Ch 45
+1874: Ch 45
+1875: 0A9
+1876: Ch 45
+1877: Ch 45
+1878: Ch 45
+1879: Ch 45
+1880: Ch 45
+1881: Ch 46
+1882: Ch 46
+1883: Ch 46
+1884: Ch 46
+1885: Ch 46
+1886: Ch 46
+1887: @@;
+1888: Ch 46
+1889: Ch 46
+1890: Ch 46
+1891: Ch 46
+1892: Ch 46
+1893: Ch 46
+1894: Ch 46
+1895: Ch 46
+1896: 0A9
+1897: Ch 46
+1898: Ch 46
+1899: Ch 46
+1900: Ch 46
+1901: Ch 46
+1902: Ch 47
+1903: Ch 47
+1904: Ch 47
+1905: Ch 47
+1906: Ch 47
+1907: Ch 47
+1908: @@;
+1909: Ch 47
+1910: Ch 47
+1911: Ch 47
+1912: Ch 47
+1913: Ch 47
+1914: Ch 47
+1915: Ch 47
+1916: Ch 47
+1917: 0A9
+1918: Ch 47
+1919: Ch 47
+1920: Ch 47
+1921: Ch 47
+1922: Ch 47
+1923: Ch 48
+1924: Ch 48
+1925: Ch 48
+1926: Ch 48
+1927: Ch 48
+1928: Ch 48
+1929: @@;
+1930: Ch 48
+1931: Ch 48
+1932: Ch 48
+1933: Ch 48
+1934: Ch 48
+1935: Ch 48
+1936: Ch 48
+1937: Ch 48
+1938: 0A9
+1939: Ch 48
+1940: Ch 48
+1941: Ch 48
+1942: Ch 48
+1943: Ch 48
+1944: Aux 1
+1945: Aux 1
+1946: Aux 1
+1947: Aux 1
+1948: Aux 1
+1949: @@;
+1950: Aux 1
+1951: Aux 1
+1952: Aux 1
+1953: Aux 1
+1954: 0A9
+1955: Aux 1
+1956: Aux 1
+1957: Aux 1
+1958: Aux 1
+1959: Aux 1
+1960: Aux 2
+1961: Aux 2
+1962: Aux 2
+1963: Aux 2
+1964: Aux 2
+1965: @@;
+1966: Aux 2
+1967: Aux 2
+1968: Aux 2
+1969: Aux 2
+1970: 0A9
+1971: Aux 2
+1972: Aux 2
+1973: Aux 2
+1974: Aux 2
+1975: Aux 2
+1976: Aux 3
+1977: Aux 3
+1978: Aux 3
+1979: Aux 3
+1980: Aux 3
+1981: @@;
+1982: Aux 3
+1983: Aux 3
+1984: Aux 3
+1985: Aux 3
+1986: 0A9
+1987: Aux 3
+1988: Aux 3
+1989: Aux 3
+1990: Aux 3
+1991: Aux 3
+1992: Aux 4
+1993: Aux 4
+1994: Aux 4
+1995: Aux 4
+1996: Aux 4
+1997: @@;
+1998: Aux 4
+1999: Aux 4
+2000: Aux 4
+2001: Aux 4
+2002: 0A9
+2003: Aux 4
+2004: Aux 4
+2005: Aux 4
+2006: Aux 4
+2007: Aux 4
+2008: Aux 5
+2009: Aux 5
+2010: Aux 5
+2011: Aux 5
+2012: Aux 5
+2013: @@;
+2014: Aux 5
+2015: Aux 5
+2016: Aux 5
+2017: Aux 5
+2018: 0A9
+2019: Aux 5
+2020: Aux 5
+2021: Aux 5
+2022: Aux 5
+2023: Aux 5
+2024: Aux 6
+2025: Aux 6
+2026: Aux 6
+2027: Aux 6
+2028: Aux 6
+2029: @@;
+2030: Aux 6
+2031: Aux 6
+2032: Aux 6
+2033: Aux 6
+2034: 0A9
+2035: Aux 6
+2036: Aux 6
+2037: Aux 6
+2038: Aux 6
+2039: Aux 6
+2040: Grp 1
+2041: Grp 1
+2042: Grp 1
+2043: Grp 1
+2044: Grp 1
+2045: @@;
+2046: Grp 1
+2047: Grp 1
+2048: Grp 1
+2049: Grp 1
+2050: Grp 1
+2051: Grp 1
+2052: Grp 1
+2053: 0A9
+2054: Grp 1
+2055: Grp 1
+2056: Grp 1
+2057: Grp 1
+2058: Grp 1
+2059: Grp 2
+2060: Grp 2
+2061: Grp 2
+2062: Grp 2
+2063: Grp 2
+2064: @@;
+2065: Grp 2
+2066: Grp 2
+2067: Grp 2
+2068: Grp 2
+2069: Grp 2
+2070: Grp 2
+2071: Grp 2
+2072: 0A9
+2073: Grp 2
+2074: Grp 2
+2075: Grp 2
+2076: Grp 2
+2077: Grp 2
+2078: Grp 3
+2079: Grp 3
+2080: Grp 3
+2081: Grp 3
+2082: Grp 3
+2083: @@;
+2084: Grp 3
+2085: Grp 3
+2086: Grp 3
+2087: Grp 3
+2088: Grp 3
+2089: Grp 3
+2090: Grp 3
+2091: 0A9
+2092: Grp 3
+2093: Grp 3
+2094: Grp 3
+2095: Grp 3
+2096: Grp 3
+2097: Master
+2098: Master
+2099: Master
+2100: Master
+2101: Master
+2102: @@;
+2103: Master
+2104: Master
+2105: Master
+2106: Master
+2107: Master
+2108: Master
+2109: Master
+2110: 0A9
+2111: Master
+2112: Master
+2113: Master
+2114: Master
+2115: Master
+2116: Grp 5
+2117: Grp 5
+2118: Grp 5
+2119: Grp 5
+2120: Grp 5
+2121: @@;
+2122: Grp 5
+2123: Grp 5
+2124: Grp 5
+2125: Grp 5
+2126: Grp 5
+2127: Grp 5
+2128: Grp 5
+2129: 0A9
+2130: Grp 5
+2131: Grp 5
+2132: Grp 5
+2133: Grp 5
+2134: Grp 5
+2135: Grp 6
+2136: Grp 6
+2137: Grp 6
+2138: Grp 6
+2139: Grp 6
+2140: @@;
+2141: Grp 6
+2142: Grp 6
+2143: Grp 6
+2144: Grp 6
+2145: Grp 6
+2146: Grp 6
+2147: Grp 6
+2148: 0A9
+2149: Grp 6
+2150: Grp 6
+2151: Grp 6
+2152: Grp 6
+2153: Grp 6
+2154: Master R
+2155: Master R
+2156: Master R
+2157: Master R
+2158: Master R
+2159: @@;
+2160: Master R
+2161: Master R
+2162: Master R
+2163: Master R
+2164: Master R
+2165: Master R
+2166: Master R
+2167: 0A9
+2168: Master R
+2169: Master R
+2170: Master R
+2171: Master R
+2172: Master R
+2173: Grp 5 R
+2174: Grp 5 R
+2175: Grp 5 R
+2176: Grp 5 R
+2177: Grp 5 R
+2178: @@;
+2179: Grp 5 R
+2180: Grp 5 R
+2181: Grp 5 R
+2182: Grp 5 R
+2183: Grp 5 R
+2184: Grp 5 R
+2185: Grp 5 R
+2186: 0A9
+2187: Grp 5 R
+2188: Grp 5 R
+2189: Grp 5 R
+2190: Grp 5 R
+2191: Grp 5 R
+2192: Grp 6 R
+2193: Grp 6 R
+2194: Grp 6 R
+2195: Grp 6 R
+2196: Grp 6 R
+2197: @@;
+2198: Grp 6 R
+2199: Grp 6 R
+2200: Grp 6 R
+2201: Grp 6 R
+2202: Grp 6 R
+2203: Grp 6 R
+2204: Grp 6 R
+2205: 0A9
+2206: Grp 6 R
+2207: Grp 6 R
+2208: Grp 6 R
+2209: Grp 6 R
+2210: Grp 6 R
+2211: Aux 4 R
+2212: Aux 4 R
+2213: Aux 4 R
+2214: Aux 4 R
+2215: Aux 4 R
+2216: @@;
+2217: Aux 4 R
+2218: Aux 4 R
+2219: Aux 4 R
+2220: Aux 4 R
+2221: 0A9
+2222: Aux 4 R
+2223: Aux 4 R
+2224: Aux 4 R
+2225: Aux 4 R
+2226: Aux 4 R
+2227: Aux 5 R
+2228: Aux 5 R
+2229: Aux 5 R
+2230: Aux 5 R
+2231: Aux 5 R
+2232: @@;
+2233: Aux 5 R
+2234: Aux 5 R
+2235: Aux 5 R
+2236: Aux 5 R
+2237: 0A9
+2238: Aux 5 R
+2239: Aux 5 R
+2240: Aux 5 R
+2241: Aux 5 R
+2242: Aux 5 R
+2243: Aux 6 R
+2244: Aux 6 R
+2245: Aux 6 R
+2246: Aux 6 R
+2247: Aux 6 R
+2248: @@;
+2249: Aux 6 R
+2250: Aux 6 R
+2251: Aux 6 R
+2252: Aux 6 R
+2253: 0A9
+2254: Aux 6 R
+2255: Aux 6 R
+2256: Aux 6 R
+2257: Aux 6 R
+2258: Aux 6 R
+2259: Monitoring
+2260: Monitoring
+2261: CG 1
+2262: CG 1
+2263: CG 1
+2264: CG 2
+2265: CG 2
+2266: CG 2
+2267: CG 3
+2268: CG 3
+2269: CG 3
+2270: CG 4
+2271: CG 4
+2272: CG 4
+2273: CG 5
+2274: CG 5
+2275: CG 5
+2276: CG 6
+2277: CG 6
+2278: CG 6
+2279: CG 7
+2280: CG 7
+2281: CG 7
+2282: CG 8
+2283: CG 8
+2284: CG 8
+2285: CG 9
+2286: CG 9
+2287: CG 9
+2288: CG 10
+2289: CG 10
+2290: CG 10
+2291: CG 11
+2292: CG 11
+2293: CG 11
+2294: CG 12
+2295: CG 12
+2296: CG 12
+2297: Solo 1
+2298: Solo 1
+2299: Solo 1
+2300: Solo 1
+2301: @@;
+2302: Solo 1
+2303: Solo 1
+2304: Solo 1
+2305: Solo 1
+2306: Solo 1
+2307: 0A9
+2308: Solo 1
+2309: Solo 1
+2310: Solo 1
+2311: Solo 1
+2312: Solo 1
+2313: Solo 2
+2314: Solo 2
+2315: Solo 2
+2316: Solo 2
+2317: @@;
+2318: Solo 2
+2319: Solo 2
+2320: Solo 2
+2321: Solo 2
+2322: Solo 2
+2323: 0A9
+2324: Solo 2
+2325: Solo 2
+2326: Solo 2
+2327: Solo 2
+2328: Solo 2
+2329: TB In
+2330: TB In
+2331: TB In
+2332: TB In
+2333: TB In
+2334: TB In
+2335: @@;
+2336: TB In
+2337: TB In
+2338: TB In
+2339: TB In
+2340: TB In
+2341: mtx In 1
+2342: mtx In 1
+2343: mtx In 1
+2344: mtx In 2
+2345: mtx In 2
+2346: mtx In 2
+2347: mtx In 3
+2348: mtx In 3
+2349: mtx In 3
+2350: mtx In 4
+2351: mtx In 4
+2352: mtx In 4
+2353: mtx In 5
+2354: mtx In 5
+2355: mtx In 5
+2356: mtx In 6
+2357: mtx In 6
+2358: mtx In 6
+2359: mtx In 7
+2360: mtx In 7
+2361: mtx In 7
+2362: mtx In 8
+2363: mtx In 8
+2364: mtx In 8
+2365: mtx In 9
+2366: mtx In 9
+2367: mtx In 9
+2368: mtx In 10
+2369: mtx In 10
+2370: mtx In 10
+2371: mtx In 11
+2372: mtx In 11
+2373: mtx In 11
+2374: mtx In 12
+2375: mtx In 12
+2376: mtx In 12
+2377: Matrix 1
+2378: Matrix 1
+2379: Matrix 1
+2380: Matrix 1
+2381: Matrix 1
+2382: @@;
+2383: Matrix 1
+2384: Matrix 1
+2385: Matrix 1
+2386: Matrix 1
+2387: 0A9
+2388: Matrix 1
+2389: Matrix 1
+2390: Matrix 1
+2391: Matrix 1
+2392: Matrix 1
+2393: Matrix 2
+2394: Matrix 2
+2395: Matrix 2
+2396: Matrix 2
+2397: Matrix 2
+2398: @@;
+2399: Matrix 2
+2400: Matrix 2
+2401: Matrix 2
+2402: Matrix 2
+2403: 0A9
+2404: Matrix 2
+2405: Matrix 2
+2406: Matrix 2
+2407: Matrix 2
+2408: Matrix 2
+2409: Matrix 3
+2410: Matrix 3
+2411: Matrix 3
+2412: Matrix 3
+2413: Matrix 3
+2414: @@;
+2415: Matrix 3
+2416: Matrix 3
+2417: Matrix 3
+2418: Matrix 3
+2419: 0A9
+2420: Matrix 3
+2421: Matrix 3
+2422: Matrix 3
+2423: Matrix 3
+2424: Matrix 3
+2425: Matrix 4
+2426: Matrix 4
+2427: Matrix 4
+2428: Matrix 4
+2429: Matrix 4
+2430: @@;
+2431: Matrix 4
+2432: Matrix 4
+2433: Matrix 4
+2434: Matrix 4
+2435: 0A9
+2436: Matrix 4
+2437: Matrix 4
+2438: Matrix 4
+2439: Matrix 4
+2440: Matrix 4
+2441: Matrix 5
+2442: Matrix 5
+2443: Matrix 5
+2444: Matrix 5
+2445: Matrix 5
+2446: @@;
+2447: Matrix 5
+2448: Matrix 5
+2449: Matrix 5
+2450: Matrix 5
+2451: 0A9
+2452: Matrix 5
+2453: Matrix 5
+2454: Matrix 5
+2455: Matrix 5
+2456: Matrix 5
+2457: Matrix 6
+2458: Matrix 6
+2459: Matrix 6
+2460: Matrix 6
+2461: Matrix 6
+2462: @@;
+2463: Matrix 6
+2464: Matrix 6
+2465: Matrix 6
+2466: Matrix 6
+2467: 0A9
+2468: Matrix 6
+2469: Matrix 6
+2470: Matrix 6
+2471: Matrix 6
+2472: Matrix 6
+2473: Matrix 7
+2474: Matrix 7
+2475: Matrix 7
+2476: Matrix 7
+2477: Matrix 7
+2478: @@;
+2479: Matrix 7
+2480: Matrix 7
+2481: Matrix 7
+2482: Matrix 7
+2483: 0A9
+2484: Matrix 7
+2485: Matrix 7
+2486: Matrix 7
+2487: Matrix 7
+2488: Matrix 7
+2489: Matrix 8
+2490: Matrix 8
+2491: Matrix 8
+2492: Matrix 8
+2493: Matrix 8
+2494: @@;
+2495: Matrix 8
+2496: Matrix 8
+2497: Matrix 8
+2498: Matrix 8
+2499: 0A9
+2500: Matrix 8
+2501: Matrix 8
+2502: Matrix 8
+2503: Matrix 8
+2504: Matrix 8
+2505: Graphic 1
+2506: Graphic 1
+2507: Graphic 2
+2508: Graphic 2
+2509: Graphic 3
+2510: Graphic 3
+2511: Graphic 4
+2512: Graphic 4
+2513: Graphic 5
+2514: Graphic 5
+2515: Graphic 6
+2516: Graphic 6
+2517: Graphic 7
+2518: Graphic 7
+2519: Graphic 8
+2520: Graphic 8
+2521: Graphic 9
+2522: Graphic 9
+2523: Graphic 10
+2524: Graphic 10
+2525: Graphic 11
+2526: Graphic 11
+2527: Graphic 12
+2528: Graphic 12
+2529: Chilli 6
+2530: Chilli 6
+2531: Chilli 6
+2532: Chilli 6
+2533: Chilli 6
+2534: Chilli 6
+2535: Chilli 6
+2536: Chilli 6
+2537: Chilli 6
+2538: Chilli 6
+2539: Chilli 6
+2540: Chilli 6
+2541: unused
+2542: unused
+2543: unused
+2544: unused
+2545: oscillator
+2546: oscillator
+2547: white noise
+2548: white noise
+2549: pink noise
+2550: pink noise
+2551: talk mic
+2552: talk mic
+2553: 11Hz sawtooth
+2554: 11Hz sawtooth
+2555: oscillator 2
+2556: oscillator 2
+2557: 0:Mic 1
+2558: 0:Mic 1
+2559: 0:Mic 2
+2560: 0:Mic 2
+2561: 0:Mic 3
+2562: 0:Mic 3
+2563: 0:Mic 4
+2564: 0:Mic 4
+2565: 0:Mic 5
+2566: 0:Mic 5
+2567: 0:Mic 6
+2568: 0:Mic 6
+2569: 0:Mic 7
+2570: 0:Mic 7
+2571: 0:Mic 8
+2572: 0:Mic 8
+2573: 0:Mic 9
+2574: 0:Mic 9
+2575: 0:Mic 10
+2576: 0:Mic 10
+2577: 0:Mic 11
+2578: 0:Mic 11
+2579: 0:Mic 12
+2580: 0:Mic 12
+2581: 0:Mic 13
+2582: 0:Mic 13
+2583: 0:Mic 14
+2584: 0:Mic 14
+2585: 0:Mic 15
+2586: 0:Mic 15
+2587: 0:Mic 16
+2588: 0:Mic 16
+2589: 0:AES in 1
+2590: 0:AES in 1
+2591: 0:AES in 2
+2592: 0:AES in 2
+2593: 1:Mic 1
+2594: 1:Mic 1
+2595: 1:Mic 2
+2596: 1:Mic 2
+2597: 1:Mic 3
+2598: 1:Mic 3
+2599: 1:Mic 4
+2600: 1:Mic 4
+2601: 1:Mic 5
+2602: 1:Mic 5
+2603: 1:Mic 6
+2604: 1:Mic 6
+2605: 1:Mic 7
+2606: 1:Mic 7
+2607: 1:Mic 8
+2608: 1:Mic 8
+2609: 1:Mic 9
+2610: 1:Mic 9
+2611: 1:Mic 10
+2612: 1:Mic 10
+2613: 1:Mic 11
+2614: 1:Mic 11
+2615: 1:Mic 12
+2616: 1:Mic 12
+2617: 1:Mic 13
+2618: 1:Mic 13
+2619: 1:Mic 14
+2620: 1:Mic 14
+2621: 1:Mic 15
+2622: 1:Mic 15
+2623: 1:Mic 16
+2624: 1:Mic 16
+2625: 1:Mic 17
+2626: 1:Mic 17
+2627: 1:Mic 18
+2628: 1:Mic 18
+2629: 1:Mic 19
+2630: 1:Mic 19
+2631: 1:Mic 20
+2632: 1:Mic 20
+2633: 1:Mic 21
+2634: 1:Mic 21
+2635: 1:Mic 22
+2636: 1:Mic 22
+2637: 1:Mic 23
+2638: 1:Mic 23
+2639: 1:Mic 24
+2640: 1:Mic 24
+2641: 1:Mic 25
+2642: 1:Mic 25
+2643: 1:Mic 26
+2644: 1:Mic 26
+2645: 1:Mic 27
+2646: 1:Mic 27
+2647: 1:Mic 28
+2648: 1:Mic 28
+2649: 1:Mic 29
+2650: 1:Mic 29
+2651: 1:Mic 30
+2652: 1:Mic 30
+2653: 1:Mic 31
+2654: 1:Mic 31
+2655: 1:Mic 32
+2656: 1:Mic 32
+2657: 1:Mic 33
+2658: 1:Mic 33
+2659: 1:Mic 34
+2660: 1:Mic 34
+2661: 1:Mic 35
+2662: 1:Mic 35
+2663: 1:Mic 36
+2664: 1:Mic 36
+2665: 1:Mic 37
+2666: 1:Mic 37
+2667: 1:Mic 38
+2668: 1:Mic 38
+2669: 1:Mic 39
+2670: 1:Mic 39
+2671: 1:Mic 40
+2672: 1:Mic 40
+2673: 1:Mic 41
+2674: 1:Mic 41
+2675: 1:Mic 42
+2676: 1:Mic 42
+2677: 1:Mic 43
+2678: 1:Mic 43
+2679: 1:Mic 44
+2680: 1:Mic 44
+2681: 1:Mic 45
+2682: 1:Mic 45
+2683: 1:Mic 46
+2684: 1:Mic 46
+2685: 1:Mic 47
+2686: 1:Mic 47
+2687: 1:Mic 48
+2688: 1:Mic 48
+2689: 2:MADI 1
+2690: 2:MADI 1
+2691: 2:MADI 2
+2692: 2:MADI 2
+2693: 2:MADI 3
+2694: 2:MADI 3
+2695: 2:MADI 4
+2696: 2:MADI 4
+2697: 2:MADI 5
+2698: 2:MADI 5
+2699: 2:MADI 6
+2700: 2:MADI 6
+2701: 2:MADI 7
+2702: 2:MADI 7
+2703: 2:MADI 8
+2704: 2:MADI 8
+2705: 2:MADI 9
+2706: 2:MADI 9
+2707: 2:MADI 10
+2708: 2:MADI 10
+2709: 2:MADI 11
+2710: 2:MADI 11
+2711: 2:MADI 12
+2712: 2:MADI 12
+2713: 2:MADI 13
+2714: 2:MADI 13
+2715: 2:MADI 14
+2716: 2:MADI 14
+2717: 2:MADI 15
+2718: 2:MADI 15
+2719: 2:MADI 16
+2720: 2:MADI 16
+2721: 2:MADI 17
+2722: 2:MADI 17
+2723: 2:MADI 18
+2724: 2:MADI 18
+2725: 2:MADI 19
+2726: 2:MADI 19
+2727: 2:MADI 20
+2728: 2:MADI 20
+2729: 2:MADI 21
+2730: 2:MADI 21
+2731: 2:MADI 22
+2732: 2:MADI 22
+2733: 2:MADI 23
+2734: 2:MADI 23
+2735: 2:MADI 24
+2736: 2:MADI 24
+2737: 2:MADI 25
+2738: 2:MADI 25
+2739: 2:MADI 26
+2740: 2:MADI 26
+2741: 2:MADI 27
+2742: 2:MADI 27
+2743: 2:MADI 28
+2744: 2:MADI 28
+2745: 2:MADI 29
+2746: 2:MADI 29
+2747: 2:MADI 30
+2748: 2:MADI 30
+2749: 2:MADI 31
+2750: 2:MADI 31
+2751: 2:MADI 32
+2752: 2:MADI 32
+2753: 2:MADI 33
+2754: 2:MADI 33
+2755: 2:MADI 34
+2756: 2:MADI 34
+2757: 2:MADI 35
+2758: 2:MADI 35
+2759: 2:MADI 36
+2760: 2:MADI 36
+2761: 2:MADI 37
+2762: 2:MADI 37
+2763: 2:MADI 38
+2764: 2:MADI 38
+2765: 2:MADI 39
+2766: 2:MADI 39
+2767: 2:MADI 40
+2768: 2:MADI 40
+2769: 2:MADI 41
+2770: 2:MADI 41
+2771: 2:MADI 42
+2772: 2:MADI 42
+2773: 2:MADI 43
+2774: 2:MADI 43
+2775: 2:MADI 44
+2776: 2:MADI 44
+2777: 2:MADI 45
+2778: 2:MADI 45
+2779: 2:MADI 46
+2780: 2:MADI 46
+2781: 2:MADI 47
+2782: 2:MADI 47
+2783: 2:MADI 48
+2784: 2:MADI 48
+2785: 2:MADI 49
+2786: 2:MADI 49
+2787: 2:MADI 50
+2788: 2:MADI 50
+2789: 2:MADI 51
+2790: 2:MADI 51
+2791: 2:MADI 52
+2792: 2:MADI 52
+2793: 2:MADI 53
+2794: 2:MADI 53
+2795: 2:MADI 54
+2796: 2:MADI 54
+2797: 2:MADI 55
+2798: 2:MADI 55
+2799: 2:MADI 56
+2800: 2:MADI 56
+2801: 3:Dante 1
+2802: 3:Dante 1
+2803: 3:Dante 2
+2804: 3:Dante 2
+2805: 3:Dante 3
+2806: 3:Dante 3
+2807: 3:Dante 4
+2808: 3:Dante 4
+2809: 3:Dante 5
+2810: 3:Dante 5
+2811: 3:Dante 6
+2812: 3:Dante 6
+2813: 3:Dante 7
+2814: 3:Dante 7
+2815: 3:Dante 8
+2816: 3:Dante 8
+2817: 3:Dante 9
+2818: 3:Dante 9
+2819: 3:Dante 10
+2820: 3:Dante 10
+2821: 3:Dante 11
+2822: 3:Dante 11
+2823: 3:Dante 12
+2824: 3:Dante 12
+2825: 3:Dante 13
+2826: 3:Dante 13
+2827: 3:Dante 14
+2828: 3:Dante 14
+2829: 3:Dante 15
+2830: 3:Dante 15
+2831: 3:Dante 16
+2832: 3:Dante 16
+2833: 3:Dante 17
+2834: 3:Dante 17
+2835: 3:Dante 18
+2836: 3:Dante 18
+2837: 3:Dante 19
+2838: 3:Dante 19
+2839: 3:Dante 20
+2840: 3:Dante 20
+2841: 3:Dante 21
+2842: 3:Dante 21
+2843: 3:Dante 22
+2844: 3:Dante 22
+2845: 3:Dante 23
+2846: 3:Dante 23
+2847: 3:Dante 24
+2848: 3:Dante 24
+2849: 3:Dante 25
+2850: 3:Dante 25
+2851: 3:Dante 26
+2852: 3:Dante 26
+2853: 3:Dante 27
+2854: 3:Dante 27
+2855: 3:Dante 28
+2856: 3:Dante 28
+2857: 3:Dante 29
+2858: 3:Dante 29
+2859: 3:Dante 30
+2860: 3:Dante 30
+2861: 3:Dante 31
+2862: 3:Dante 31
+2863: 3:Dante 32
+2864: 3:Dante 32
+2865: 3:Dante 33
+2866: 3:Dante 33
+2867: 3:Dante 34
+2868: 3:Dante 34
+2869: 3:Dante 35
+2870: 3:Dante 35
+2871: 3:Dante 36
+2872: 3:Dante 36
+2873: 3:Dante 37
+2874: 3:Dante 37
+2875: 3:Dante 38
+2876: 3:Dante 38
+2877: 3:Dante 39
+2878: 3:Dante 39
+2879: 3:Dante 40
+2880: 3:Dante 40
+2881: 3:Dante 41
+2882: 3:Dante 41
+2883: 3:Dante 42
+2884: 3:Dante 42
+2885: 3:Dante 43
+2886: 3:Dante 43
+2887: 3:Dante 44
+2888: 3:Dante 44
+2889: 3:Dante 45
+2890: 3:Dante 45
+2891: 3:Dante 46
+2892: 3:Dante 46
+2893: 3:Dante 47
+2894: 3:Dante 47
+2895: 3:Dante 48
+2896: 3:Dante 48
+2897: 3:Dante 49
+2898: 3:Dante 49
+2899: 3:Dante 50
+2900: 3:Dante 50
+2901: 3:Dante 51
+2902: 3:Dante 51
+2903: 3:Dante 52
+2904: 3:Dante 52
+2905: 3:Dante 53
+2906: 3:Dante 53
+2907: 3:Dante 54
+2908: 3:Dante 54
+2909: 3:Dante 55
+2910: 3:Dante 55
+2911: 3:Dante 56
+2912: 3:Dante 56
+2913: 3:Dante 57
+2914: 3:Dante 57
+2915: 3:Dante 58
+2916: 3:Dante 58
+2917: 3:Dante 59
+2918: 3:Dante 59
+2919: 3:Dante 60
+2920: 3:Dante 60
+2921: 3:Dante 61
+2922: 3:Dante 61
+2923: 3:Dante 62
+2924: 3:Dante 62
+2925: 3:Dante 63
+2926: 3:Dante 63
+2927: 3:Dante 64
+2928: 3:Dante 64
+2929: unused
+2930: unused
+2931: unused
+2932: unused
+2933: headphone L
+2934: headphone L
+2935: headphone R
+2936: headphone R
+2937: 0:Line 1
+2938: 0:Line 1
+2939: 0:Line 2
+2940: 0:Line 2
+2941: 0:Line 3
+2942: 0:Line 3
+2943: 0:Line 4
+2944: 0:Line 4
+2945: 0:Line 5
+2946: 0:Line 5
+2947: 0:Line 6
+2948: 0:Line 6
+2949: 0:Line 7
+2950: 0:Line 7
+2951: 0:Line 8
+2952: 0:Line 8
+2953: 0:AES out 1
+2954: 0:AES out 1
+2955: 0:AES out 2
+2956: 0:AES out 2
+2957: 1:Line out 1
+2958: 1:Line out 1
+2959: 1:Line out 2
+2960: 1:Line out 2
+2961: 1:Line out 3
+2962: 1:Line out 3
+2963: 1:Line out 4
+2964: 1:Line out 4
+2965: 1:Line out 5
+2966: 1:Line out 5
+2967: 1:Line out 6
+2968: 1:Line out 6
+2969: 1:Line out 7
+2970: 1:Line out 7
+2971: 1:Line out 8
+2972: 1:Line out 8
+2973: 1:Line out 9
+2974: 1:Line out 9
+2975: 1:Line out 10
+2976: 1:Line out 10
+2977: 1:Line out 11
+2978: 1:Line out 11
+2979: 1:Line out 12
+2980: 1:Line out 12
+2981: 1:Line out 13
+2982: 1:Line out 13
+2983: 1:Line out 14
+2984: 1:Line out 14
+2985: 1:Line out 15
+2986: 1:Line out 15
+2987: 1:Line out 16
+2988: 1:Line out 16
+2989: 1:Line out 17
+2990: 1:Line out 17
+2991: 1:Line out 18
+2992: 1:Line out 18
+2993: 1:Line out 19
+2994: 1:Line out 19
+2995: 1:Line out 20
+2996: 1:Line out 20
+2997: 1:Line out 21
+2998: 1:Line out 21
+2999: 1:Line out 22
+3000: 1:Line out 22
+3001: 1:Line out 23
+3002: 1:Line out 23
+3003: 1:Line out 24
+3004: 1:Line out 24
+3005: 1:AES out 1
+3006: 1:AES out 1
+3007: 1:AES out 2
+3008: 1:AES out 2
+3009: 1:AES out 3
+3010: 1:AES out 3
+3011: 1:AES out 4
+3012: 1:AES out 4
+3013: 1:AES out 5
+3014: 1:AES out 5
+3015: 1:AES out 6
+3016: 1:AES out 6
+3017: 1:AES out 7
+3018: 1:AES out 7
+3019: 1:AES out 8
+3020: 1:AES out 8
+3021: 1:AES out 9
+3022: 1:AES out 9
+3023: 1:AES out 10
+3024: 1:AES out 10
+3025: 1:AES out 11
+3026: 1:AES out 11
+3027: 1:AES out 12
+3028: 1:AES out 12
+3029: 1:AES out 13
+3030: 1:AES out 13
+3031: 1:AES out 14
+3032: 1:AES out 14
+3033: 1:AES out 15
+3034: 1:AES out 15
+3035: 1:AES out 16
+3036: 1:AES out 16
+3037: 2:MADI 1
+3038: 2:MADI 1
+3039: 2:MADI 2
+3040: 2:MADI 2
+3041: 2:MADI 3
+3042: 2:MADI 3
+3043: 2:MADI 4
+3044: 2:MADI 4
+3045: 2:MADI 5
+3046: 2:MADI 5
+3047: 2:MADI 6
+3048: 2:MADI 6
+3049: 2:MADI 7
+3050: 2:MADI 7
+3051: 2:MADI 8
+3052: 2:MADI 8
+3053: 2:MADI 9
+3054: 2:MADI 9
+3055: 2:MADI 10
+3056: 2:MADI 10
+3057: 2:MADI 11
+3058: 2:MADI 11
+3059: 2:MADI 12
+3060: 2:MADI 12
+3061: 2:MADI 13
+3062: 2:MADI 13
+3063: 2:MADI 14
+3064: 2:MADI 14
+3065: 2:MADI 15
+3066: 2:MADI 15
+3067: 2:MADI 16
+3068: 2:MADI 16
+3069: 2:MADI 17
+3070: 2:MADI 17
+3071: 2:MADI 18
+3072: 2:MADI 18
+3073: 2:MADI 19
+3074: 2:MADI 19
+3075: 2:MADI 20
+3076: 2:MADI 20
+3077: 2:MADI 21
+3078: 2:MADI 21
+3079: 2:MADI 22
+3080: 2:MADI 22
+3081: 2:MADI 23
+3082: 2:MADI 23
+3083: 2:MADI 24
+3084: 2:MADI 24
+3085: 2:MADI 25
+3086: 2:MADI 25
+3087: 2:MADI 26
+3088: 2:MADI 26
+3089: 2:MADI 27
+3090: 2:MADI 27
+3091: 2:MADI 28
+3092: 2:MADI 28
+3093: 2:MADI 29
+3094: 2:MADI 29
+3095: 2:MADI 30
+3096: 2:MADI 30
+3097: 2:MADI 31
+3098: 2:MADI 31
+3099: 2:MADI 32
+3100: 2:MADI 32
+3101: 2:MADI 33
+3102: 2:MADI 33
+3103: 2:MADI 34
+3104: 2:MADI 34
+3105: 2:MADI 35
+3106: 2:MADI 35
+3107: 2:MADI 36
+3108: 2:MADI 36
+3109: 2:MADI 37
+3110: 2:MADI 37
+3111: 2:MADI 38
+3112: 2:MADI 38
+3113: 2:MADI 39
+3114: 2:MADI 39
+3115: 2:MADI 40
+3116: 2:MADI 40
+3117: 2:MADI 41
+3118: 2:MADI 41
+3119: 2:MADI 42
+3120: 2:MADI 42
+3121: 2:MADI 43
+3122: 2:MADI 43
+3123: 2:MADI 44
+3124: 2:MADI 44
+3125: 2:MADI 45
+3126: 2:MADI 45
+3127: 2:MADI 46
+3128: 2:MADI 46
+3129: 2:MADI 47
+3130: 2:MADI 47
+3131: 2:MADI 48
+3132: 2:MADI 48
+3133: 2:MADI 49
+3134: 2:MADI 49
+3135: 2:MADI 50
+3136: 2:MADI 50
+3137: 2:MADI 51
+3138: 2:MADI 51
+3139: 2:MADI 52
+3140: 2:MADI 52
+3141: 2:MADI 53
+3142: 2:MADI 53
+3143: 2:MADI 54
+3144: 2:MADI 54
+3145: 2:MADI 55
+3146: 2:MADI 55
+3147: 2:MADI 56
+3148: 2:MADI 56
+3149: 3:Dante 1
+3150: 3:Dante 1
+3151: 3:Dante 2
+3152: 3:Dante 2
+3153: 3:Dante 3
+3154: 3:Dante 3
+3155: 3:Dante 4
+3156: 3:Dante 4
+3157: 3:Dante 5
+3158: 3:Dante 5
+3159: 3:Dante 6
+3160: 3:Dante 6
+3161: 3:Dante 7
+3162: 3:Dante 7
+3163: 3:Dante 8
+3164: 3:Dante 8
+3165: 3:Dante 9
+3166: 3:Dante 9
+3167: 3:Dante 10
+3168: 3:Dante 10
+3169: 3:Dante 11
+3170: 3:Dante 11
+3171: 3:Dante 12
+3172: 3:Dante 12
+3173: 3:Dante 13
+3174: 3:Dante 13
+3175: 3:Dante 14
+3176: 3:Dante 14
+3177: 3:Dante 15
+3178: 3:Dante 15
+3179: 3:Dante 16
+3180: 3:Dante 16
+3181: 3:Dante 17
+3182: 3:Dante 17
+3183: 3:Dante 18
+3184: 3:Dante 18
+3185: 3:Dante 19
+3186: 3:Dante 19
+3187: 3:Dante 20
+3188: 3:Dante 20
+3189: 3:Dante 21
+3190: 3:Dante 21
+3191: 3:Dante 22
+3192: 3:Dante 22
+3193: 3:Dante 23
+3194: 3:Dante 23
+3195: 3:Dante 24
+3196: 3:Dante 24
+3197: 3:Dante 25
+3198: 3:Dante 25
+3199: 3:Dante 26
+3200: 3:Dante 26
+3201: 3:Dante 27
+3202: 3:Dante 27
+3203: 3:Dante 28
+3204: 3:Dante 28
+3205: 3:Dante 29
+3206: 3:Dante 29
+3207: 3:Dante 30
+3208: 3:Dante 30
+3209: 3:Dante 31
+3210: 3:Dante 31
+3211: 3:Dante 32
+3212: 3:Dante 32
+3213: 3:Dante 33
+3214: 3:Dante 33
+3215: 3:Dante 34
+3216: 3:Dante 34
+3217: 3:Dante 35
+3218: 3:Dante 35
+3219: 3:Dante 36
+3220: 3:Dante 36
+3221: 3:Dante 37
+3222: 3:Dante 37
+3223: 3:Dante 38
+3224: 3:Dante 38
+3225: 3:Dante 39
+3226: 3:Dante 39
+3227: 3:Dante 40
+3228: 3:Dante 40
+3229: 3:Dante 41
+3230: 3:Dante 41
+3231: 3:Dante 42
+3232: 3:Dante 42
+3233: 3:Dante 43
+3234: 3:Dante 43
+3235: 3:Dante 44
+3236: 3:Dante 44
+3237: 3:Dante 45
+3238: 3:Dante 45
+3239: 3:Dante 46
+3240: 3:Dante 46
+3241: 3:Dante 47
+3242: 3:Dante 47
+3243: 3:Dante 48
+3244: 3:Dante 48
+3245: 3:Dante 49
+3246: 3:Dante 49
+3247: 3:Dante 50
+3248: 3:Dante 50
+3249: 3:Dante 51
+3250: 3:Dante 51
+3251: 3:Dante 52
+3252: 3:Dante 52
+3253: 3:Dante 53
+3254: 3:Dante 53
+3255: 3:Dante 54
+3256: 3:Dante 54
+3257: 3:Dante 55
+3258: 3:Dante 55
+3259: 3:Dante 56
+3260: 3:Dante 56
+3261: 3:Dante 57
+3262: 3:Dante 57
+3263: 3:Dante 58
+3264: 3:Dante 58
+3265: 3:Dante 59
+3266: 3:Dante 59
+3267: 3:Dante 60
+3268: 3:Dante 60
+3269: 3:Dante 61
+3270: 3:Dante 61
+3271: 3:Dante 62
+3272: 3:Dante 62
+3273: 3:Dante 63
+3274: 3:Dante 63
+3275: 3:Dante 64
+3276: 3:Dante 64
+3277: Arial
+3278: Ch 1-12
+3279: Input Channels
+3280: Ch 13-24
+3281: Input Channels
+3282: Ch 25-36
+3283: Input Channels
+3284: Ch 37-48
+3285: Input Channels
+3286: Aux 1-6
+3287: Aux Outputs
+3288: Grp 1-6
+3289: Group Outputs
+3290: Matrix /TB
+3291: Matrix Outputs
+3292: CG 1-12
+3293: Control Groups
+3294: TB In
+3295: Talkback Input
+3296: 85?
+3297: 85?
+3298: 85?
+3299: 85?
+3300: 85?
+3301: 85?
+3302: 85?
+3303: 85?
+3304: 85?
+3305: 85?
+3306: r>X
+3307: 85?
+3308: 85?
+3309: 85?
+3310: 85?
+3311: Fe>
+3312: Fe>
+3313: M">
+3314: M">
+3315: Gainder 1
+3316: Set 1
+3317: Set 2
+3318: Set 3
+3319: Set 4
+3320: Set 5
+3321: Set 6
+3322: Set 7
+3323: Set 8
+3324: Set 9
+3325: Set 10
+3326: Set 11
+3327: Set 12
+3328: Set 13
+3329: Set 14
+3330: Set 15
+3331: Set 16
+3332: Set 17
+3333: Set 18
+3334: Set 19
+3335: Set 20
+3336: Set 21
+3337: Set 22
+3338: Set 23
+3339: Set 24
+3340: Set 25
+3341: Set 26
+3342: Set 27
+3343: Set 28
+3344: Set 29
+3345: Set 30
+3346: Set 31
+3347: Set 32
+3348: A10
+3349: A11
+3350: A12
+3351: A13
+3352: A14
+3353: A15
+3354: A16
+3355: B10
+3356: B11
+3357: B12
+3358: B13
+3359: B14
+3360: B15
+3361: B16
+3362: C10
+3363: C11
+3364: C12
+3365: C13
+3366: C14
+3367: C15
+3368: C16
