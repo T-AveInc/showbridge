@@ -1,0 +1,16 @@
+DiGiCo mute/state test discovery:
+
+Channel/state block size appears to be 212 bytes.
+
+Observed target block:
+Block 2161
+
+Observed parameter field:
+Position 124–127
+
+This 4-byte field changes when channel mute state changes.
+
+Need more tests:
+- CH1 muted vs CH2 muted
+- CH1 fader up vs fader down
+- CH1 name change only

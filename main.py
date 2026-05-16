@@ -22,7 +22,7 @@ for file_path in files:
 
         data = file_path.read_bytes()
 
-        raw_strings = re.findall(rb"[ -~]{3,}", data)
+        raw_strings = re.findall(rb"[\x20-\x7E]{3,}", data)
 
         decoded_strings = []
 
@@ -32,127 +32,152 @@ for file_path in files:
             except UnicodeDecodeError:
                 pass
 
-        strings_output = Path(file_path.stem + "_strings.txt")
+        session_name = file_path.stem
 
-        with strings_output.open("w", encoding="utf-8") as f:
-            for i, item in enumerate(decoded_strings, start=1):
-                f.write(f"{i}: {item}\n")
+        strings_output = f"{session_name}_strings.txt"
+
+        with open(strings_output, "w") as f:
+            for i, s in enumerate(decoded_strings):
+                f.write(f"{i}: {s}\n")
 
         print("Saved:", strings_output)
 
-        input_index = None
+        # -------------------------------------------------
+        # CREATE UNIVERSAL SHOW MODEL
+        # -------------------------------------------------
 
-        for i, item in enumerate(decoded_strings):
-            if item.strip() == "Input Channels":
-                input_index = i
+        show = ShowFile("DiGiCo", session_name)
+
+        # -------------------------------------------------
+        # FIND INPUT CHANNELS
+        # -------------------------------------------------
+
+        channel_start = None
+
+        for i, s in enumerate(decoded_strings):
+            if s == "Input Channels":
+                channel_start = i
+                print("Found Input Channels block at line", i)
                 break
 
-        if input_index is None:
-            print("Could not locate Input Channels block.")
-            continue
+        if channel_start:
 
-        print("Found Input Channels block at line", input_index + 1)
+            for ch_num in range(1, 129):
 
-        start_index = input_index + 3
+                line_index = channel_start + ch_num + 2
 
-        channel_names = []
+                if line_index < len(decoded_strings):
 
-        for item in decoded_strings[start_index:start_index + 128]:
+                    name = decoded_strings[line_index].strip()
 
-            clean_item = item.strip()
+                    if (
+                        name
+                        and name != "Arial"
+                        and not name.startswith("Ch ")
+                    ):
 
-            if clean_item.startswith("Grp"):
-                break
+                        channel = Channel(ch_num, name)
+                        show.channels.append(channel)
 
-            if clean_item == "":
-                continue
+                    else:
+                        channel = Channel(ch_num, f"Ch {ch_num}")
+                        show.channels.append(channel)
 
-            channel_names.append(clean_item)
+        # -------------------------------------------------
+        # FIND BUSES
+        # -------------------------------------------------
 
-        bus_names = []
+        bus_keywords = [
+            "Aux",
+            "Grp",
+            "Matrix",
+            "Master",
+            "FX",
+        ]
 
-        for item in decoded_strings:
+        bus_num = 1
 
-            clean_item = item.strip()
+        for s in decoded_strings:
 
-            if clean_item.startswith("Grp"):
-                bus_names.append(clean_item)
+            if any(keyword in s for keyword in bus_keywords):
 
-            elif clean_item.startswith("Aux"):
-                bus_names.append(clean_item)
+                if len(s) < 40:
 
-            elif clean_item.startswith("Matrix"):
-                bus_names.append(clean_item)
+                    exists = False
 
-            elif clean_item == "Master":
-                bus_names.append(clean_item)
+                    for b in show.buses:
+                        if b.name == s:
+                            exists = True
 
-        bus_names = list(dict.fromkeys(bus_names))
+                    if not exists:
 
-        fx_names = []
+                        bus = Bus(bus_num, s)
+                        show.buses.append(bus)
+                        bus_num += 1
 
-        for item in decoded_strings:
+        # -------------------------------------------------
+        # FIND FX
+        # -------------------------------------------------
 
-            clean_item = item.strip()
-            lower_item = clean_item.lower()
+        fx_keywords = [
+            "Reverb",
+            "Delay",
+            "Plate",
+            "room",
+            "Room",
+        ]
 
-            if clean_item.startswith("FX"):
-                fx_names.append(clean_item)
+        fx_num = 1
 
-            elif "reverb" in lower_item:
-                fx_names.append(clean_item)
+        for s in decoded_strings:
 
-            elif "delay" in lower_item:
-                fx_names.append(clean_item)
+            if any(keyword in s for keyword in fx_keywords):
 
-            elif "plate" in lower_item:
-                fx_names.append(clean_item)
+                if len(s) < 40:
 
-            elif "room" in lower_item:
-                fx_names.append(clean_item)
+                    exists = False
 
-        fx_names = list(dict.fromkeys(fx_names))
+                    for fx in show.fx:
+                        if fx.name == s:
+                            exists = True
 
-        show = ShowFile(
-            console_type="DiGiCo",
-            session_name=file_path.stem
-        )
+                    if not exists:
 
-        for channel_number, channel_name in enumerate(channel_names, start=1):
-            show.channels.append(
-                Channel(
-                    number=channel_number,
-                    name=channel_name
-                )
-            )
+                        fx_obj = FX(fx_num, s)
+                        show.fx.append(fx_obj)
+                        fx_num += 1
 
-        for bus_number, bus_name in enumerate(bus_names, start=1):
-            show.buses.append(
-                Bus(
-                    number=bus_number,
-                    name=bus_name
-                )
-            )
+        # -------------------------------------------------
+        # FIND SNAPSHOTS
+        # -------------------------------------------------
 
-        for fx_number, fx_name in enumerate(fx_names, start=1):
-            show.fx.append(
-                FX(
-                    number=fx_number,
-                    name=fx_name
-                )
-            )
+        snapshots = []
 
-        print("\nUniversal Show Model Created")
-        print("Console:", show.console_type)
-        print("Session:", show.session_name)
-        print("Channels:", len(show.channels))
-        print("Buses:", len(show.buses))
-        print("FX:", len(show.fx))
+        for i, s in enumerate(decoded_strings):
 
-        channel_output = Path(file_path.stem + "_channel_list.csv")
+            if (
+                i + 1 < len(decoded_strings)
+                and decoded_strings[i + 1] == "Arial"
+            ):
 
-        with channel_output.open("w", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f)
+                if len(s) < 40:
+
+                    if not s.startswith("Ch "):
+
+                        if s not in snapshots:
+
+                            snapshots.append(s)
+
+        # -------------------------------------------------
+        # EXPORT CHANNELS
+        # -------------------------------------------------
+
+        channel_output = f"{session_name}_channel_list.csv"
+
+        with open(channel_output, "w", newline="") as csvfile:
+
+            writer = csv.writer(csvfile)
+
             writer.writerow(["Channel", "Name"])
 
             for channel in show.channels:
@@ -160,10 +185,16 @@ for file_path in files:
 
         print("Saved:", channel_output)
 
-        bus_output = Path(file_path.stem + "_bus_list.csv")
+        # -------------------------------------------------
+        # EXPORT BUSES
+        # -------------------------------------------------
 
-        with bus_output.open("w", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f)
+        bus_output = f"{session_name}_bus_list.csv"
+
+        with open(bus_output, "w", newline="") as csvfile:
+
+            writer = csv.writer(csvfile)
+
             writer.writerow(["Bus", "Name"])
 
             for bus in show.buses:
@@ -171,15 +202,48 @@ for file_path in files:
 
         print("Saved:", bus_output)
 
-        fx_output = Path(file_path.stem + "_fx_list.csv")
+        # -------------------------------------------------
+        # EXPORT FX
+        # -------------------------------------------------
 
-        with fx_output.open("w", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f)
+        fx_output = f"{session_name}_fx_list.csv"
+
+        with open(fx_output, "w", newline="") as csvfile:
+
+            writer = csv.writer(csvfile)
+
             writer.writerow(["FX", "Name"])
 
             for fx in show.fx:
                 writer.writerow([fx.number, fx.name])
 
         print("Saved:", fx_output)
+
+        # -------------------------------------------------
+        # EXPORT SNAPSHOTS
+        # -------------------------------------------------
+
+        snapshot_output = f"{session_name}_snapshot_list.csv"
+
+        with open(snapshot_output, "w", newline="") as csvfile:
+
+            writer = csv.writer(csvfile)
+
+            writer.writerow(["Snapshot", "Name"])
+
+            for i, snap in enumerate(snapshots, start=1):
+                writer.writerow([i, snap])
+
+        print("Saved:", snapshot_output)
+
+        # -------------------------------------------------
+
+        print("\nUniversal Show Model Created")
+        print("Console:", show.console_type)
+        print("Session:", show.session_name)
+        print("Channels:", len(show.channels))
+        print("Buses:", len(show.buses))
+        print("FX:", len(show.fx))
+        print("Snapshots:", len(snapshots))
 
 print("\nDone.")

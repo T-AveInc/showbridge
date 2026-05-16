@@ -1,34 +1,37 @@
 Bus,Name
-1,Auxes
-2,Matrix
-3,Matrix Outputs
-4,Matrix 1
-5,Matrix 2
-6,Matrix 3
-7,Matrix 4
-8,Matrix 5
-9,Matrix 6
-10,Matrix 7
-11,Matrix 8
-12,Matrix Inputs
-13,Aux 4 R
-14,Aux 5 R
-15,Aux 6 R
-16,Grp 5 R
-17,Grp 6 R
-18,Aux Outputs
-19,Aux 1
-20,Aux 2
-21,Aux 3
-22,Aux 4
-23,Aux 5
-24,Aux 6
-25,Grp 1
-26,Grp 2
-27,Grp 3
-28,Master
-29,Grp 5
-30,Grp 6
-31,Aux 1-6
-32,Grp 1-6
-33,Matrix /TB
+1,FX 1
+2,Chilli Mastering C
+3,Auxes
+4,Matrix
+5,Matrix Outputs
+6,Matrix 1
+7,Matrix 2
+8,Matrix 3
+9,Matrix 4
+10,Matrix 5
+11,Matrix 6
+12,Matrix 7
+13,Matrix 8
+14,Matrix Inputs
+15,Aux 4 R
+16,Aux 5 R
+17,Aux 6 R
+18,Master R
+19,Grp 5 R
+20,Grp 6 R
+21,Aux Outputs
+22,Aux 1
+23,Aux 2
+24,Aux 3
+25,Aux 4
+26,Aux 5
+27,Aux 6
+28,Grp 1
+29,Grp 2
+30,Grp 3
+31,Master
+32,Grp 5
+33,Grp 6
+34,Aux 1-6
+35,Grp 1-6
+36,Matrix /TB
