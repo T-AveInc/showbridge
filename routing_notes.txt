@@ -1,0 +1,33 @@
+ShowBridge Routing Tests
+
+Goal:
+Map DiGiCo channel output routing to Aux, Group, Matrix, and Master.
+
+Current known pattern:
+Routing changes produce repeated 4-byte clusters across structured blocks.
+
+Aux 1 routing:
+Observed repeated cluster near blocks 449, 451, 452, etc.
+Pattern appears around positions:
+206-209
+0-3
+98-101
+204-207
+210-211
+
+Group 1 routing:
+Observed similar repeated 4-byte clusters.
+Need exact pattern comparison.
+
+Matrix 1 routing:
+Observed additional low-offset changes near block 318 and repeated changes near 449+.
+
+Next required tests:
+1. routing_ch1_aux1.ses vs routing_ch1_aux2.ses
+2. routing_ch1_group1.ses vs routing_ch1_group2.ses
+3. routing_ch1_matrix1.ses vs routing_ch1_matrix2.ses
+4. routing_ch1_master_on.ses vs routing_ch1_master_off.ses
+
+Important:
+Routing likely uses bitfields or encoded 4-byte routing maps.
+Do not assume one byte equals one route yet.
